@@ -10,3 +10,4 @@
 9. Patience, Persistence and Perspiration.
 10. Inventing is combination of brains and materials.
 11. Do what you do better.
+12. Software is eating the world.
